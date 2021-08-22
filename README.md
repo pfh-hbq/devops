@@ -9,3 +9,8 @@
 ### 🛠 Run natively
 
 install requirements.txt
+
+### 🐳 Run using Docker
+
+docker build -t devops_lab01 .   
+docker run --rm -p 5000:5000 devops_lab01
