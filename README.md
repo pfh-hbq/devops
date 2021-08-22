@@ -1,9 +1,11 @@
 # DevOps Lab 01
-## 👨🏻‍💻 Zarubin Iurii, BS18-SE-01
-## 🏛 Innopolis University
+👨🏻‍💻 Zarubin Iurii, BS18-SE-01
 
-### 💿 Simple Python web application, that shows current time in Moscow 🌍
+🏛 Innopolis University
 
-## 🛠 Run natively
+
+## 💿 Simple Python web application, that shows current time in Moscow 🌍
+
+### 🛠 Run natively
 
 install requirements.txt
