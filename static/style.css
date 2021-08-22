@@ -1,0 +1,24 @@
+body {
+    background: black;
+    font-size: 20px;
+}
+
+.container {
+    height: 600px;
+}
+
+.emoji {
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.time_c {
+    line-height: 600px;
+    text-align: center;
+    color: white;
+}
+
+.time {
+    color: #FF7A8C;
+}
