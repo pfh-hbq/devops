@@ -12,6 +12,8 @@ install requirements.txt
 
 ### 🐳 Run using Docker
 
+Docker image is available [here](https://hub.docker.com/r/pfhhbq/devops_lab01)
+
 docker build -t devops_lab01 .   
 docker run --rm -p 5000:5000 devops_lab01
 
