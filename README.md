@@ -16,3 +16,5 @@ docker build -t devops_lab01 .
 docker run --rm -p 5000:5000 devops_lab01
 
 ## 📱 Bonus task for lab01 - Free iPhone single-page application
+
+go to the app_vuejs folder and see requirements there
