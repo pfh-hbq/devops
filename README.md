@@ -1,3 +1,6 @@
+[![debops-ci Actions Status](https://github.com/pfh-hbq/devops/workflows/devops-ci/badge.svg)](https://github.com/pfh-hbq/devops/actions) 
+
+
 # DevOps Lab 01
 👨🏻‍💻 Zarubin Iurii, BS18-SE-01
 
