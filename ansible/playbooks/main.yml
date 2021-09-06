@@ -1,0 +1,7 @@
+---
+- name: "DevOps"
+  hosts: all
+  roles:
+    - role: ../../roles/install_docker
+      become: true
+    - role: ../../roles/app_deploy
