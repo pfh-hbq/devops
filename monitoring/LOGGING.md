@@ -1,3 +1,18 @@
+### **🖼 Screenshots**
+
+![](screens/grafana.png)
+
+![](screens/log_browser.png)
+
+![](screens/docker_ps.png)
+
+![](screens/loki_global_metrics.png)
+
+![](screens/prom_overview.png)
+
+![](screens/prom_targets.png)
+
+
  ### **Logging 💯 practices**
  - upload logs to some storage
  - do log rotation
