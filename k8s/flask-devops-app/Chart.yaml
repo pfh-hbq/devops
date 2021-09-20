@@ -1,0 +1,6 @@
+apiVersion: v2
+name: flask-devops-app
+description: A Helm chart for DevOps Lab10
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
