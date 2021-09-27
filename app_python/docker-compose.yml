@@ -1,9 +1,12 @@
 version: '3'
-
+volumes:
+  app-data: { }
 services:
   app:
     build: .
     image: pfhhbq/devops_lab01:latest
+    volumes:
+      - app-data:/usr/src/app_python
     ports:
       - "5000:5000"
     environment:
