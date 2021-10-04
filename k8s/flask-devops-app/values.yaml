@@ -1,4 +1,6 @@
-replicaCount: 1
+replicaCount: 3
+serviceName: "app"
+podManagementPolicy: Parallel
 
 image:
   repository: pfhhbq/devops_lab01:latest
@@ -27,7 +29,8 @@ securityContext: { }
 
 
 service:
-  type: ClusterIP
+  name: app
+  type: LoadBalancer
   port: 8000
 
 ingress:
